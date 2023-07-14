@@ -1,4 +1,4 @@
-// Felipe da Silva Gangorra - 12111084 - UFCG
+// Felipe da Silva Gangorra - UFCG
 
 
 /* 
